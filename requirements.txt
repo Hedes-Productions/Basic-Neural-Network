@@ -1,0 +1,6 @@
+torch==2.0.0
+torchaudio==2.0.1
+torchvision==0.15.1
+virtualenv==20.21.0
+matplotlib==3.4.3
+seaborn==0.11.2
